@@ -42,6 +42,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 - Funding Societies | Modalku
 - Wise
+- Bigpay (bigpayme.com)
 - Rapyd
 - PayPal
 - StashAway
